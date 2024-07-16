@@ -38,7 +38,7 @@ The dataset used in this project consists of various attributes such as patient 
    git clone <https://github.com/Kamalakannan-K/Health-Care-Prediction-on-Diabetic-Patients>
 
 2. Install the required dependencies:
-   '''bash
+   ```bash
    pip install -r requirements.txt
 
 ## Future Enhancements
