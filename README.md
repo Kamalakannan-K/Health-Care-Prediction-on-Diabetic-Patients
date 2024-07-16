@@ -15,13 +15,6 @@ This project aims to develop a predictive model for identifying diabetic patient
 - **NumPy:** For numerical operations on data.
 - **Matplotlib and Seaborn:** For data visualization.
 - **Scikit-learn:** For implementing machine learning algorithms.
-- **Flask:** For building the web-based user interface.
-- **Docker:** For containerization and scalable deployment.
-- **Git:** For version control.
-- **Jupyter Notebooks or Markdown:** For documentation.
-- **PyTest:** For unit testing.
-- **Selenium:** For web application testing.
-- **Jenkins, GitLab CI, or GitHub Actions:** For continuous integration and deployment.
 - **Google Colab:** For collaborative coding and leveraging free GPU support.
 
 ## Dataset
@@ -42,5 +35,24 @@ The dataset used in this project consists of various attributes such as patient 
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/Kamalakannan-K/Health-Care-Prediction-on-Diabetic-Patients>
+
+2. Install the required dependencies:
+   '''bash
+   pip install -r requirements.txt
+
+## Future Enhancements
+Incorporate real-time data updates and continuous monitoring.
+Enhance the model's predictive capabilities with more advanced algorithms.
+Improve the user interface for better usability.
+## Conclusion
+This project demonstrates the integration of data science, machine learning, and web development to provide a robust solution for early diabetes detection. The deployment of the model through a user-friendly interface ensures its accessibility and potential impact on improving healthcare outcomes.
+
+
+## Acknowledgments
+Thanks to [Data Source] for providing the dataset.
+Special thanks to all contributors and open-source libraries.
+
+## Contact
+For any questions or suggestions, please contact Kamalakannan at kkamalakannanlearn@gmail.com.
 
