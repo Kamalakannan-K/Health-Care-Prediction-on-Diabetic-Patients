@@ -48,11 +48,6 @@ Improve the user interface for better usability.
 ## Conclusion
 This project demonstrates the integration of data science, machine learning, and web development to provide a robust solution for early diabetes detection. The deployment of the model through a user-friendly interface ensures its accessibility and potential impact on improving healthcare outcomes.
 
-
-## Acknowledgments
-Thanks to [Data Source] for providing the dataset.
-Special thanks to all contributors and open-source libraries.
-
 ## Contact
 For any questions or suggestions, please contact Kamalakannan at kkamalakannanlearn@gmail.com.
 
