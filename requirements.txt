@@ -5,6 +5,3 @@ seaborn==0.13.1
 scikit-learn==1.2.2
 tensorflow==2.15.0
 flask==2.2.5
-docker==docker[0m[33m
-pytest==7.4.4
-selenium==selenium[0m[33m
